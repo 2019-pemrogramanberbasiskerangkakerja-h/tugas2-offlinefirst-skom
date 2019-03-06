@@ -1,11 +1,8 @@
 # Kelompok_10_OfflineFirst
 
-# Gerald Parlindungan Salomo  05111540000021
-# Subhan Maulana              05111540000149
-# Alfindio Muhammad Abdallah  05111540000164
-
-
-# Offline First with CouchDB
+### Gerald Parlindungan Salomo - 05111540000021
+### Subhan Maulana - 05111540000149
+### Alfindio Muhammad Abdallah - 05111540000164
 
 Disclaimer:
 - Need to setup local database first with 'users' and 'log' database
