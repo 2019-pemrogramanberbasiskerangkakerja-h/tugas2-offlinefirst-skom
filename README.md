@@ -4,6 +4,8 @@
 ### Subhan Maulana - 05111540000149
 ### Alfindio Muhammad Abdallah - 05111540000164
 
+#### OFFLINE FIRST
+
 Disclaimer:
 - Need to setup local database first with 'users' and 'log' database
 
